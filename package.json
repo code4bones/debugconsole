@@ -1,0 +1,27 @@
+{
+  "name": "debugconsole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This is dummy test...\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code4bones/debugconsole.git"
+  },
+  "keywords": [
+    "debug",
+    "console"
+  ],
+  "author": "code4bones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code4bones/debugconsole/issues"
+  },
+  "homepage": "https://github.com/code4bones/debugconsole#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
