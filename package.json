@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build" "npm build",
+    "build": "npm build",
     "test": "echo \"This is dummy test...\" && exit 0"
   },
   "repository": {
